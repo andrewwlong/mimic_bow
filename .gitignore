@@ -1,0 +1,8 @@
+
+# ignore the data files
+ADMISSIONS.csv
+
+NOTEEVENTS.csv
+
+# ignore checkpoints
+.ipynb_checkpoints
